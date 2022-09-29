@@ -43,13 +43,38 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Pokedex utilizando API PokeApi",
+      "url": "https://shiteles.github.io/pokedex_api_javascript_css_html/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto urna eletrônica",
+      "url": "https://shiteles.github.io/projeto-urna-javascript/",
+      "github": true
+    },
+    {
+      "name": "AutoComplete CEP utilizando API ViaCep",
+      "url": "https://shiteles.github.io/API-Javascript-AutoCompleteCEP/",
+      "github": true
+    },
+    {
+      "name": "Jogo da cobrinha",
+      "url": "https://shiteles.github.io/recriando-jogo-cobrinha-JavaScript/",
+      "github": true
+    },
+    {
+      "name": "Calculadora",
+      "url": "https://shiteles.github.io/projeto-calculadora-javascript/calculadora.html",
+      "github": true
+    },
+    {
+      "name": "Feedback com emojis",
+      "url": "https://shiteles.github.io/10-Projetos-Javascript/AvaliacaoEmoji/",
+      "github": true
+    },
+    {
+      "name": "Pagina inicial do Instagram",
+      "url": "https://shiteles.github.io/recriando-pagina-inicial-instagram/#",
       "github": true
     }
   ],
