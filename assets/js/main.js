@@ -37,8 +37,8 @@ function updateEducation(profileData){
     education.innerHTML = profileData.education.map(courses =>{
         return`
             <li>
-                <h3 class="title">${courses.course}</h3>
-                <h4 class="period">${courses.institution}</h4>
+                <h3 class="course">${courses.course}</h3>
+                <h4 class="institution">${courses.institution}</h4>
                 <p>${courses.date}</p>
             </li>
         `
