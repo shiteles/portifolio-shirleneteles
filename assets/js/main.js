@@ -32,6 +32,19 @@ function updateHardSkills(profileData) {
     hardSkills.innerHTML = profileData.skills.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 
+function updateEducation(profileData){
+    const rducation = document.getElementById('profile.education')
+    education.innerHTML = profileData.education.map(courses =>{
+        return`
+            <li>
+                <h3 class="title">${courses.course}</h3>
+                <p class="period">${courses.institution}</p>
+                <p>${courses.date}</p>
+            </li>
+        `
+    }).join('')
+}
+
 function updateLanguages(profileData) {
     const languages = document.getElementById('profile.languages')
     languages.innerHTML = profileData.languages.map(language => `<li>${language}</li>`).join('')
@@ -62,13 +75,14 @@ function updateProfessionalExperience(profileData){
     }).join('')
 }
 
-
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
     updateSoftSkills(profileData)
     updateHardSkills(profileData)
+    updateEducation(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+    
 })()

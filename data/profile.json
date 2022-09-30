@@ -37,9 +37,26 @@
       "Flexibilidade"
     ]
   },
+  "education": [
+    {
+      "course": "Graduação: Comunicação Social - Rádio e TV",
+      "institution": "Centro Universitário Monte Serrat",
+      "date": "Conclusão 2012"
+    },
+    {
+      "course": "Bootcamp Code Girls - Santander",
+      "institution": "DIO",
+      "date": "Conclusão Jul/2022"
+    },
+    {
+      "course": "Back-end Todas em Tech",
+      "institution": "Reprograma",
+      "date": "Conslusão Dez/2022"
+    }
+  ],
   "languages": [
     "Português BR",
-    "Inglês (intermediário)"
+    "Inglês (avançado)"
   ],
   "portfolio": [
     {
