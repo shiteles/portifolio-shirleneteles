@@ -85,19 +85,24 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Operadora de áudio / TV Thati - Band Litoral",
+      "period": "2018 - até o momento",
+      "description": "Operação de áudio e sonoplastia durante programas ao vivo."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Operador de mídia audiovisual / Rádio Metropolitana Santista",
+      "period": "2020 - 2022",
+      "description": "Operação de áudio e sonopalstia durante programas ao vivo, assim como edição e sonorização de programas gravados e vinhetas."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Arquivista e Op de TP / VTV - SBT",
+      "period": "2019 - 2019",
+      "description": "Arquivamento e controle de matérias produzidas e solicitadas pelo Jornalismo, e operaçãod e TP durante os programas ao vivo e gravados."
+    },
+    {
+      "name": "Operadora de audio / Record TV Litoral",
+      "period": "2012 - 2019",
+      "description": "Comecei na empresa em 2011 como estágiaria onde pude aprender muito, o que fez com que em 2012 eu fosse efetivada como Arquivista e Op de TP, e depois ofertada a mudança de cargo para Op de áudio, tendo contato diario com programas ao vivo"
     }
   ]
 }
