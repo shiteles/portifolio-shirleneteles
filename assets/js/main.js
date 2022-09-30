@@ -33,12 +33,12 @@ function updateHardSkills(profileData) {
 }
 
 function updateEducation(profileData){
-    const rducation = document.getElementById('profile.education')
+    const education = document.getElementById('profile.education')
     education.innerHTML = profileData.education.map(courses =>{
         return`
             <li>
                 <h3 class="title">${courses.course}</h3>
-                <p class="period">${courses.institution}</p>
+                <h4 class="period">${courses.institution}</h4>
                 <p>${courses.date}</p>
             </li>
         `

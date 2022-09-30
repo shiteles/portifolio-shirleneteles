@@ -10,13 +10,13 @@
     margin-bottom: 1rem;
 }
 
-.education li .period {
+.education li .institution {
     display: flex;
     flex-direction: row;
     align-items: center;
 }
 
-.education li .period::before {
+.education li .institution::before {
     content: "";
     display: inline-block;
     width: 1rem;
