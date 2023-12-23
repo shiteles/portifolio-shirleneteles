@@ -1,7 +1,7 @@
 {
   "name": "Shirlene Teles",
   "photo": "https://avatars.githubusercontent.com/u/108750190?v=4",
-  "job": "Desenvolvedora",
+  "job": "QA",
   "location": "Praia Grande - SP",
   "phone": "(13) 99193-2851",
   "email": "shiteles@gmail.com",
@@ -18,6 +18,10 @@
       {
         "name": "HTML",
         "logo": "https://raw.githubusercontent.com/shiteles/portifolio-shirleneteles/main/assets/img/icons/tools/html.png"
+      },
+      {
+        "name": "Cypress",
+        "logo": "https://raw.githubusercontent.com/shiteles/portifolio-shirleneteles/main/assets/img/icons/tools/cypress.png"
       },
       {
         "name": "Git",
@@ -38,6 +42,11 @@
     ]
   },
   "education": [
+    {
+      "course": "Análise e Desenvolvimento de Sistemas",
+      "institution": "Descomplica UniAmérica",
+      "date": "Conclusão Jul/2025"
+    },
     {
       "course": "Back-end Todas em Tech",
       "institution": "Reprograma",
@@ -102,8 +111,13 @@
   ],
   "professionalExperience": [
     {
+      "name": "Analista de Qualidade / Up Outsourcing",
+      "period": "2023 - até o momento",
+      "description": "Realização de testes exploratórios em ambiente web e mobile e registro de bugs e melhorias, em projeto norte-americano"
+    },
+    {
       "name": "Operadora de áudio / TV Thati - Band Litoral",
-      "period": "2018 - até o momento",
+      "period": "2018 - 2023",
       "description": "Operação de áudio e sonoplastia durante programas ao vivo."
     },
     {
