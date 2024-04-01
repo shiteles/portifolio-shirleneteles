@@ -1,7 +1,7 @@
 {
   "name": "Shirlene Teles",
   "photo": "https://avatars.githubusercontent.com/u/108750190?v=4",
-  "job": "QA",
+  "job": "Analista de Qualidade",
   "location": "Praia Grande - SP",
   "phone": "(13) 99193-2851",
   "email": "shiteles@gmail.com",
@@ -69,6 +69,11 @@
   ],
   "portfolio": [
     {
+      "name": "Sisterhood Tech API",
+      "url": "https://github.com/shiteles/sisterhood-tech",
+      "github": true
+    },
+    {
       "name": "Pokedex utilizando API PokeApi",
       "url": "https://shiteles.github.io/pokedex_api_javascript_css_html/",
       "github": true
@@ -113,7 +118,7 @@
     {
       "name": "Analista de Qualidade / Up Outsourcing",
       "period": "2023 - até o momento",
-      "description": "Realização de testes exploratórios em ambiente web e mobile e registro de bugs e melhorias, em projeto norte-americano"
+      "description": "Realização de testes funcionais, responsivos, exploratórios, de UI/UX, cross-browser e registro de bugs e melhorias, em projeto norte-americano"
     },
     {
       "name": "Operadora de áudio / TV Thati - Band Litoral",
